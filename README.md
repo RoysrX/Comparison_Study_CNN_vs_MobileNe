@@ -1,5 +1,5 @@
 ## 🔧 1. Model Architectures
-A. Custom CNN (Trained From Scratch)
+#A. Custom CNN (Trained From Scratch)
 
 3 Convolutional + MaxPooling blocks
 
@@ -9,7 +9,7 @@ Total Parameters: 3,305,156
 
 Learns all features directly from dataset
 
-B. MobileNetV2 (Transfer Learning)
+#B. MobileNetV2 (Transfer Learning)
 
 Pretrained on ImageNet
 
@@ -89,4 +89,3 @@ Lower overfitting risk
 
 For production use, MobileNetV2 is recommended.
 
-## 📦 Repository Contents
